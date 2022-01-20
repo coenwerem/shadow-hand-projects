@@ -1,0 +1,3 @@
+# Ignore C++ build files and VSCode log files
+*build/
+*.vscode/
